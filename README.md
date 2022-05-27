@@ -10,7 +10,7 @@
 - 🎮 RPG, RTS, FPS, MOBA.
 
 ### Projetos Pessoais
-- [![Generic badge](https://img.shields.io/badge/PROJETOS-Precifica.Me-blue.svg)](https://precifica-me.web.app/)
+- [Precifica.Me](https://precifica-me.web.app/) - Ajuda o usuário a cobrar pelos seus produtos/serviços utilizando sua própria realidade como base de cálculo.
 
 <!--
 **eduardonot/eduardonot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
