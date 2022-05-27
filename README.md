@@ -11,6 +11,7 @@
 
 ### Projetos Pessoais
 - [Precifica.Me](https://precifica-me.web.app/) - Ajuda o usuário a cobrar pelos seus produtos/serviços utilizando sua própria realidade como base de cálculo.
+- [Telegram-Bot-Multer](https://github.com/eduardonot/telegram-bot-multer) - Este bot permite um compartilhamento único de arquivos de maneira anônima entre usuários do Telegram, precisando apenas de um link ou hash que pode ser compartilhado em diversos outros meios.
 
 <!--
 **eduardonot/eduardonot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
