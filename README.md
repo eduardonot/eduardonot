@@ -8,6 +8,10 @@
 - 🌴 Javascript, HTML, CSS, Vue.js, Node.js, MySQL, MongoDB, Docker, Scrum
 - 🌱 Atualmente aprendendo Typescript e Testes de Software.
 - 🎮 RPG, RTS, FPS, MOBA.
+
+### Projetos Pessoais
+- [![Generic badge](https://img.shields.io/badge/PROJETOS-Precifica.Me-blue.svg)](https://precifica-me.web.app/)
+
 <!--
 **eduardonot/eduardonot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
